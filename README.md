@@ -1,6 +1,6 @@
 # angular-docker
 _Angular | Docker_  
-Creación de mi primer proyecto Angular en local y despliegue sobre Docker.  
+Proyecto inicial de Angular desplegado sobre Docker.  
   
 Comandos.  
 Para instalar las dependencias:  
