@@ -19,7 +19,7 @@ Se lanza sobre VSC con la extension Docker (Run image & stop container):
 (http://localhost | http://localhost:80)  
   
 Docker Hub:  
-luisvalles92 / repositorio-docker
+luisvalles92/repositorio-docker
   
 [Estandarizacion y productividad](https://www.campusmvp.es/recursos/post/los-beneficios-de-utilizar-docker-y-contenedores-a-la-hora-de-programar.aspx) | [Tutorial](https://fbellod.medium.com/como-cargar-tu-app-en-angular-a-los-registros-de-docker-hub-1f32d18201fb) | [Docker Hub](https://hub.docker.com) | [Repositorio](https://github.com/LuisValles92/angular-docker)
   
